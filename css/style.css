@@ -61,7 +61,7 @@ h1:hover {
   display: inline;
 }
 
-#press img:hover {
+#press img a:hover {
   color: #6F7F7A;
 }
 
