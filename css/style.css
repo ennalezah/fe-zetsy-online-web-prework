@@ -58,7 +58,7 @@ h1:hover {
 
 .small {
   font-size: 0.8em;
-  float: right;
+  text-align: right;
 }
 
 /*////////// MEDIA //////////*/
