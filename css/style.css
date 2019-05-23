@@ -27,7 +27,7 @@ p {
 .logo {
   color: #98ADA6;
   font-size: 5em;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 #featured h2, #press h2 {
