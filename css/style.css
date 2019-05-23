@@ -32,6 +32,10 @@ p {
   margin-bottom: 5px;
 }
 
+#featured img {
+  border: ;
+}
+
 #featured h2, #press h2 {
   color: #6F7F7A;
   font-size: 2em;
