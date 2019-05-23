@@ -36,7 +36,9 @@ body, html {
   text-decoration: none;
 }
 
-#featured
+#featured a:hover     {
+  text-decoration: underline;
+}
 
 /*////////// MEDIA //////////*/
  
