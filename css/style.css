@@ -37,7 +37,8 @@ p {
 }
 
 #featured img {
-  border: ;
+  border: solid 2px #98ADA6;
+  margin: 0 auto;
 }
 
 #featured h2, #press h2 {
