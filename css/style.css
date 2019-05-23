@@ -29,6 +29,7 @@ p {
   font-size: 5em;
   font-weight: bold;
   border-bottom: 1px solid #CCCCCC;
+  margin-bottom: 5px;
 }
 
 #featured h2, #press h2 {
