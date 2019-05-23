@@ -32,7 +32,7 @@ p {
   margin-bottom: 5px;
 }
 
-.logo h1:hover {
+.logo:hover {
   color: #6F7F7A;
 }
 
