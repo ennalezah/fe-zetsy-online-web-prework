@@ -20,6 +20,10 @@ body, html {
 
 /* Write all remaining styles here */
 
+p {
+  color: #555;
+}
+
 #logo h1 {
   color: #98ADA6;
   font-size: 2em;
