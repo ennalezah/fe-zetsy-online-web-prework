@@ -61,6 +61,10 @@ h1:hover {
   display: inline;
 }
 
+#press a:hover {
+  
+}
+
 .small {
   font-size: 0.8em;
   text-align: right;
